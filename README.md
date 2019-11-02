@@ -13,9 +13,7 @@
 
 选择排序和插入排序，并且可实现单步及非单步运行。演示过程如下：
 
-![result](https://github.com/Hezhing/CodeOfMFC/tree/master/Project1/ResultImage/result.jpg
-
-)
+![image]( https://github.com/Hezhing/CodeOfMFC/blob/master/Project1/ResultImage/result.jpg )
 
 
 
