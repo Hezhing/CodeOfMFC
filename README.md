@@ -22,3 +22,9 @@
 **Exam1：**实现的是MFC第一次测验中的**用户消费饼图绘制**。本项目实现了位图及基础类的封装。演示过程如下：
 
 ![image]( https://github.com/Hezhing/CodeOfMFC/blob/master/Exam1/ResultImage/result.jpg )
+
+
+
+**Test1:**这一行是用于测试的！
+
+[Test](www.baidu.com)
