@@ -25,6 +25,7 @@
 
 
 
-**Test1:**这一行是用于测试的！
+**Project2**：实现的是MFC第二次作业中的**会员管理系统**。本项目实现了会员信息的显示，包括表、树，以及添加、删除、修改、查找会员的功能。演示过程如下：
 
-[Test](www.baidu.com)
+![image]( https://github.com/Hezhing/CodeOfMFC/blob/master/Project2/ResultImage/result.jpg )
+
