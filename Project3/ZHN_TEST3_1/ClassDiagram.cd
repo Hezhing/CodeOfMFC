@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CAboutDlg" Collapsed="true">
+    <Position X="6" Y="2.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="CAboutDlg::__unnamed_enum_0013_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ZHN_TEST3_1.cpp</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAABAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ZHN_TEST3_1.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CAdd" Collapsed="true">
+    <Position X="7.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQCAAAQAAFAABAAAABAAgAEhAAAAAIAAAACkAAAAACA=</HashCode>
+      <FileName>Add.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CChange" Collapsed="true">
+    <Position X="9.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAABAgAEAAAEAAABAAAEAIAAAEEIAAAICMAAAAACA=</HashCode>
+      <FileName>Change.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMainFrame" Collapsed="true">
+    <Position X="7.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAACAAAAAACAAAiABAgCAAAgAAAAAAAAAAABA=</HashCode>
+      <FileName>MainFrm.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMedicListView">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAIAAAAEAGAAAgAAAAAAAAABAAAAAAAAAEAA=</HashCode>
+      <FileName>MedicListView.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSearch" Collapsed="true">
+    <Position X="7.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAhQBAAAAAAAAJABAQAAACAAAAAAoAAEAQAAACA=</HashCode>
+      <FileName>Search.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CUserFormView" Collapsed="true">
+    <Position X="7.5" Y="1.25" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="CUserFormView::__unnamed_enum_0010_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>UserFormView.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAIQAsAAJBIAAFSCJQQoAAAEAAAAEAAAgQMCAQCAAA=</HashCode>
+      <FileName>UserFormView.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CUserTreeView" Collapsed="true">
+    <Position X="5.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAFABGAAAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UserTreeView.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CZHN_TEST3_1App" Collapsed="true">
+    <Position X="6" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAAAAAAAABAAAAAAQAAAABAAAAAAA=</HashCode>
+      <FileName>ZHN_TEST3_1.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CZHN_TEST3_1Doc" Collapsed="true">
+    <Position X="7.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEBgAACQACAAAAgCAQAgAggASkkAECBAAAAAAAIQgA=</HashCode>
+      <FileName>ZHN_TEST3_1Doc.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CZHN_TEST3_1View" Collapsed="true">
+    <Position X="9.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAGBAAgAAAgAEAAAAABAgAAAAAAAA=</HashCode>
+      <FileName>ZHN_TEST3_1View.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
